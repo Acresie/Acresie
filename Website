@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name= "description" content="This is a website for blogs on different topics"
+<meta name= "author" content= "Acresie">
+<meta name= "keywords" content= "Blogs, Minecraft, Coding">
+<meta name= "viewport" content= "width=device-width, initial scale=1.0">
+</head>
+<style>
+body {
+background-color: cornSilk;
+}
+</style>
+<title> Acresie </title>
+<h1 style="font-family: Helvetica; font-weight: bold; color: darkGrey;"> Acresie </h1>
+<hr>
+<h2 style="color: DarkGrey; font-family: Cursive; font-size: 20px;">The word 'Acresie' comes from the words 'Crescent' and 'Description'. This website is for blogs and tips in general. Click the links to view!</h2>
+<ul>
+<li><button><a style="color: grey;"href="http://localhost:9898/Local/Acresie%20(HTML)/Blog%201?3EA7286E-2296-4886-A1FF-884C6A4E2F9A"> Facts about Me </a></button>
+<li><button><a style="color: grey;"href="http://localhost:9898/Local/Acresie%20(HTML)/Blog%202?3B682661-4847-48C0-B1B4-CE31C72A4F07"> School Stuff </a></button>
+<li><button><a style="color: grey;"href="http://localhost:9898/Local/Acresie%20(HTML)/Blog%203?FF34571C-6284-44A9-A7C4-9FE20FADD30A">The Genius </a></button>
+<li><button><a style="color: grey;" href="http://localhost:9898/Local/Acresie%20(HTML)/Blog%204?98D3671A-B5E6-45F8-AB07-FA51689EE4AA">Rare Facts</a></button>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h5 style="color: Grey;">Thank you for reading these blogs.</h5>
+<html>
